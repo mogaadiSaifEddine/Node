@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "name": "adduser",
+  "version": "1.0.0",
+  "description": "fdhgt",
+  "main": "var.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": " "
+  },
+  "keywords": [
+    "aa"
+  ],
+  "author": "mogaadi",
+  "license": "UNLICENSED"
+}
